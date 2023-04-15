@@ -2,11 +2,13 @@
 
 $array = [1 ,5, 10 ,25 ,69 ,2 ,4];
 
-foreach($array as $a) {
-    if( $a < 10 ) {
-        echo "0" . "\n";
+$cont = 0;
+while(true) {
+    $cont++;
+    if($cont == 10) {
+        break;
     } else {
-        echo $a . "\n";
+        echo $cont . "\n";
     }
 }
 
