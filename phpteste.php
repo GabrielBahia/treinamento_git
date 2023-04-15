@@ -3,10 +3,10 @@
 $array = [1 ,5, 10 ,25 ,69 ,2 ,4];
 
 foreach($array as $a) {
-    if( $a > 5 ) {
-        echo $a . "\n";
-    } else {
+    if( $a < 10 ) {
         echo "0" . "\n";
+    } else {
+        echo $a . "\n";
     }
 }
 
