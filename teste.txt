@@ -1,4 +1,3 @@
-asssssdsadsadsonsakdomsakdsa
-dsadsadsasdasds
-sdadsldsadssddsds dsadsadsaads
-dsadsassd
+Linha 1
+Linha 2 dois modificada conflito
+Linha 3
